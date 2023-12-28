@@ -71,6 +71,6 @@ SFFS was chosen due to its suitability for the dataset and spam email characteri
 
 [1] Sebastian Raschka. (2020, October 29). 7.7 Stacking (L07: Ensemble Methods) [Video]. YouTube. https://www.youtube.com/watch?v=8T2emza6g80
 
-**Further details and insights can be found in my [report].**
+<sup>Further details and insights can be found in my [report].</sup>
 
 [report]: https://www.mediafire.com/file/0yrlinc6u29jqhb/annotated-CSDS_340_Case_Study_1_Report.pdf/file
