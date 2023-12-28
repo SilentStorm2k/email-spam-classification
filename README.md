@@ -73,4 +73,4 @@ SFFS was chosen due to its suitability for the dataset and spam email characteri
 
 **Further details and insights can be found in my [report].**
 
-[report]: [https://www.mediafire.com/file/0yrlinc6u29jqhb/annotated-CSDS_340_Case_Study_1_Report.pdf/file](https://www.mediafire.com/file/0yrlinc6u29jqhb/annotated-CSDS_340_Case_Study_1_Report.pdf/file)
+[report]: https://www.mediafire.com/file/0yrlinc6u29jqhb/annotated-CSDS_340_Case_Study_1_Report.pdf/file
